@@ -32,7 +32,7 @@
 
 <p align="center">
     <h1>Available on app store</h1>
-    <img align="center" src="logos/appStoreImage.png" width="300" max-width="50%" alt="ShareX" />
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fapp-store-logo%2F&psig=AOvVaw1XlUC60rZ3CeRoXnsRjFJu&ust=1677107933490000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJD1wobgp_0CFQAAAAAdAAAAABAE" width="300" max-width="50%" alt="ToDo" />
 </p>
 
 
