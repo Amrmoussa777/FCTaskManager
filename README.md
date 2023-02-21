@@ -20,7 +20,7 @@
 ## DEMOO [IMPORTANT✅]
 [DEMO LINK](https://youtu.be/xkYgku8GPbQ)
 
-### ShareX
+
 
 
 =======
