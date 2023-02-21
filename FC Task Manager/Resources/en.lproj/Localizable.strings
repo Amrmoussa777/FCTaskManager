@@ -1,0 +1,23 @@
+"tasks" = "Tasks";
+"calendar" = "Calendar";
+"focus" = "Focus";
+"menu" = "Menu";
+"startTimer" = "Start";
+"stopTimer" = "Stop";
+"resumeTimer" = "Resume";
+"focusHeader" = "Use pomodore technique to focus on a specific task for 20 Minutes ";
+"markAsCompleted" = "Mark as Completed";
+"HomeTask" = "Home Task";
+"ShoppingTask" = "Shopping Task";
+"WorkTask" = "Work Task";
+"timeLeft" = "Time Left";
+"assignee" = "Assignee";
+"desc" = "Description";
+"yourTaskIS" = "Your task is :";
+"taskExample" = "EX :- Run daily ..";
+"createTask" = "Create Task";
+"dueDate" = "Due Date";
+"deleteTask" = "Delete Task";
+"changeLanguage" = "تغير اللغة 🇸🇦";
+
+
