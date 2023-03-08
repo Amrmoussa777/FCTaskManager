@@ -25,7 +25,7 @@
 
 =======
 
-[![DEMO Task](https://img.youtube.com/vi/xkYgku8GPbQ/0.jpg)](https://www.youtube.com/watch?v=xkYgku8GPbQ)
+[![DEMO Task](https://img.youtube.com/vi/xkYgku8GPbQ/2.jpg)](https://www.youtube.com/watch?v=xkYgku8GPbQ)
 
 
 
